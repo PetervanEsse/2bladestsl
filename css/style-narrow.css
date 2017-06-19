@@ -72,3 +72,7 @@
 		background-size: 15em, 15em, cover;
 		padding: 3em;
 	}
+
+	#header nav{
+		top: 1em;
+	}
