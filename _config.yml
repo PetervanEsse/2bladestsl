@@ -16,9 +16,9 @@
 title: 2Blades@TSL
 email: peter.vanesse@tsl.ac.uk
 description: 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://2blades@tsl.ac.uk" 
-twitter_username: 
+baseurl: "/2bladestsl" # the subpath of your site, e.g. /blog
+url: "http://2blades.tsl.ac.uk"
+twitter_username: "2blades"
 github_username:  
 
 # Build settings
