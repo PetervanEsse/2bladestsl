@@ -7,9 +7,15 @@ layout: default
         <h2><strong>The 2Blades group Blog</strong></h2>
     </header>
     <section class="wrapper style4 container">
+
         <ul class="posts">
+<div class="wrapper style2">
+<h2>WELCOME TO THE 2BLADES GROUP BLOG</h2>
+<p>Hi all, this is the 2Blades Group Blog. Here we post all our lab-activities @ TSL, from seminars, courses to BBQ and Birthday parties.</p>
+</div>
+
           {% for post in site.posts %}
-            <li class="wrapper {% if forloop.first %} style2 {% else %} style1 {% endif %}">
+            <li class="wrapper {% if forloop.first %} style1 {% else %} style1 {% endif %}">
               <h2>{{ post.title }}</a></h2>
                 {{ post.excerpt }}
                 <section class="special">
