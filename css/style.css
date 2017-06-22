@@ -121,13 +121,13 @@ header.major {
 }
 
 header.special {
-    margin-bottom: 5em;
-    padding-top: 7em;
+    margin-bottom: 2em;
+    /*padding-top: 7em;*/
     position: relative;
     text-align: center;
 }
 
-header.special:before, header.special:after {
+/*header.special:before, header.special:after {
     border-bottom: solid 1.5px;
     border-top: solid 1.5px;
     content: '';
@@ -144,7 +144,7 @@ header.special:before {
 
 header.special:after {
     right: 0;
-}
+}*/
 
 header.special h2 {
     margin-bottom: 0;
@@ -965,7 +965,7 @@ input[type="reset"].small,
     background-position: top left, top right, bottom left, bottom right;
     background-repeat: no-repeat;
     background-size: 25em;
-    padding: 7em 0;
+    padding: 5em 0;
 }
 
 #main > :last-child {
