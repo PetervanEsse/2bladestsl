@@ -276,6 +276,8 @@ input[type="email"] {
 .image.featured img {
     display: block;
     width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
 }
 
 /* Icon */
@@ -792,6 +794,10 @@ input[type="reset"].small,
     font-style: italic;
 }
 
+ul.posts h2{
+    text-align: center;
+}
+
 /* Dropotron */
 
 .dropotron {
@@ -1207,9 +1213,11 @@ body.index #main {
     background-color: #008CBA;
     pointer-events: none
 }
-.hover-blue{
+
+.hover-blue {
     position: relative;
 }
+
 .hover-blue:hover .overlay {
     opacity: 1;
 }
