@@ -797,6 +797,9 @@ input[type="reset"].small,
 ul.posts h2{
     text-align: center;
 }
+ul.posts p{
+    text-align:center;
+}
 
 /* Dropotron */
 
