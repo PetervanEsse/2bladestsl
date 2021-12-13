@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A day at the seaside"
-date:   2020-12-11 12:00:00
+date:   2020-09-23 12:00:00
 ---
 
 <span class="image featured"><img src="/images/pic84.jpg" alt=""></span>
