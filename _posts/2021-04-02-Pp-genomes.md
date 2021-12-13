@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "New annotated <i> Phakopsora pachyrhizi </i> genomes released"
-date:   2020-12-11 12:00:00
+date:   2021-12-11 12:00:00
 ---
 
 <span class="image featured"><img src="/images/pic79.jpg" alt=""></span>
